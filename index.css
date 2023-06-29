@@ -1,0 +1,45 @@
+.heading {
+  color: #0f172a;
+  font-family: "Roboto";
+  font-size: 35px;
+}
+.information {
+  background-color: #0b69ff;
+  display: flex;
+  margin-bottom: 10px;
+  width: 350px;
+}
+.success {
+  background-color: #2dca73;
+  display: flex;
+  margin-bottom: 10px;
+}
+.warning {
+  background-color: #ffb800;
+  display: flex;
+  margin-bottom: 10px;
+}
+.danger {
+  background-color: #ff0b37;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.text {
+  font-family: "roboto";
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.image {
+  width: 30px;
+  height: 30px;
+  padding: 10px;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
